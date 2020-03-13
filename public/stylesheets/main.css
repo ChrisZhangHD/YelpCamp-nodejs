@@ -1,0 +1,7 @@
+ #show_picture .img-thumbnail {
+    padding: 0;
+}
+
+.delete-form {
+ display: inline;
+}
